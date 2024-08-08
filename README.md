@@ -8,4 +8,4 @@
 
 ### This project is built using HTML, CSS, JavaScript
 
-[Check out the website here](https://abhishekprakash5.github.io/Sorting-Visualization/)
+[Check out the Live Project Demo here](https://abhishekprakash5.github.io/Sorting-Visualization/)
