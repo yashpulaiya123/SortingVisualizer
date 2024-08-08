@@ -1,5 +1,5 @@
 # Sorting Visualization
-### This is a simple visualization project made using javascript 
+### This is a simple visualization project to visualize Sorting Algorithms live to understand how they are actually working in background Eg. 
 - Bubble Sort 
 - Selection Sort
 - Insertion Sort
