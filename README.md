@@ -1,5 +1,5 @@
 # Sorting Visualization
-#### This is a simple visualization project to visualize Sorting Algorithms live to understand how they are actually working in background  
+#### This is a Visualization Project to visualize Sorting Algorithms live to understand how they are actually working in background  
 - Bubble Sort 
 - Selection Sort
 - Insertion Sort
